@@ -1,5 +1,5 @@
 ## RAM8
-![RAM8](https://user-images.githubusercontent.com/36406175/188294559-f8ea639b-3ec1-44f0-9cf5-b22e98769657.jpg)
+![RAM8](https://user-images.githubusercontent.com/36406175/190955671-b6c58c4b-5b09-4693-8862-2a688c88dd71.jpg)
 
 ## PC
 ![PC](https://user-images.githubusercontent.com/36406175/188300847-b7322ce3-0cdf-4571-90d5-a75c386850e2.jpg)
