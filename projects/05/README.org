@@ -1,3 +1,7 @@
 #+title: Readme
 * CPU
 [[./CPU.jpg]]
+* Computer
+[[./Computer.jpg]]
+* Memory
+[[./Memory.jpg]]
